@@ -48,7 +48,7 @@ I specialize in designing and implementing **robust**, **scalable**, and **effic
 
 - **English** 
 - **German**
-- - **Persian**
+- **Persian**
 
 ---
 
